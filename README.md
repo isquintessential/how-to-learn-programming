@@ -3,25 +3,25 @@
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 — Martin Fowler*
 
-* [_Python_](#python) *>*
-* [_JavaScript_](#javascript) *>*
-* [_Html_](#html) *>*
-* [_Css_](#css) *>*
+* [_Python_](#python)
+* [_JavaScript_](#javascript)
+* [_Html_](#html)
+* [_Css_](#css)
 * [_C++_](#c++)
 * [_Assembly_](#assembly)
 * [_Rust_](#rust)
 * [_C_](#c)
 * [_R_](#r)
 * [_Java_](#java)
-* [__Go__](#go)
+* [_Go_](#go)
 * [_Kotlin_](#kotlin)
-* [_swift_](#swift)
+* [_Swift_](#swift)
 * [_Php_](#php)
 * [_Dart_](#dart)
 * [_Lua_](#lua)
 * [_Scala](#scala)
 * [_Haskell_](#haskell)
-* [_Ruby_](#ruby) *>*
+* [_Ruby_](#ruby)
 
 ### Programming in a nutshell
 > Programming is the art of giving precise instructions, in expectation of solving a problem. People Use it for various  tasks, such as: system programming, developing games, operating systems, and what not!
@@ -55,8 +55,9 @@
 | `Scala` | Data engineering, distributed systems | High |
 | `Haskell` | Research, compilers, functional programming | Very High |
 | `Assembly` | Low level systems programming, hardware interaction | Extreme |
+##
 
-# Python 🥢
+# Python 
 
 # 
 > *"It does not matter how slowly you go as long as you do not stop."
