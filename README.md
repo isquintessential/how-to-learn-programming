@@ -19,7 +19,7 @@
 * [_Php_](#php)
 * [_Dart_](#dart)
 * [_Lua_](#lua)
-* [_Scala](#scala)
+* [_Scala_](#scala)
 * [_Haskell_](#haskell)
 * [_Ruby_](#ruby)
 
@@ -57,7 +57,8 @@
 | `Assembly` | Low level systems programming, hardware interaction | Extreme |
 ##
 
-# Python 
+# `` Python ``
+
 
 # 
 > *"It does not matter how slowly you go as long as you do not stop."
