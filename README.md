@@ -1,12 +1,27 @@
-# _Shortcut_
+# 
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 — Martin Fowler*
-* [_Python_](#python)
-* [_JavaScript_](#javascript)
-* [_Html_](#html)
-* [_Css_](#css)
-* [_Ruby_](#ruby)
+
+* [_Python_](#python) *>*
+* [_JavaScript_](#javascript) *>*
+* [_Html_](#html) *>*
+* [_Css_](#css) *>*
+* [_C++_](#c++)
+* [_Assembly_](#assembly)
+* [_Rust_](#rust)
+* [_C_](#c)
+* [_R_](#r)
+* [_Java_](#java)
+* [__Go__](#go)
+* [_Kotlin_](#kotlin)
+* [_swift_](#swift)
+* [_Php_](#php)
+* [_Dart_](#dart)
+* [_Lua_](#lua)
+* [_Scala](#scala)
+* [_Haskell_](#haskell)
+* [_Ruby_](#ruby) *>*
 
 ### Programming in a nutshell
 > Programming is the art of giving precise instructions, in expectation of solving a problem. People Use it for various  tasks, such as: system programming, developing games, operating systems, and what not!
