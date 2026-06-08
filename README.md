@@ -61,11 +61,33 @@
 *Python is a powerful, beginner-friendly programming language used to build websites, automate tasks, analyze data, create artificial intelligence, and develop games. Its clean syntax, massive ecosystem, and versatility make it one of the world's most popular languages for both newcomers and professionals.*
 #### Tutorial
 # Libraries —
-
-#
-Fundamentals:
-Intermediate:
-
+| # | Library | Learning Source | 
+|---|---------|-----------------|
+| 1 |``requests``| https://requests.readthedocs.io |
+| 2 |``beautifulsoup4``| https://beautiful-soup-4.readthedocs.io |
+| 3 |``pandas``| https://pandas.pydata.org/docs |
+| 4 |``numpy``| https://numpy.org/doc |
+| 5 |``matplotlib``| https://matplotlib.org/stable/tutorials |
+| 6 |``sqlalchemy``| https://docs.sqlalchemy.org |
+| 7 |``fastapi``| https://fastapi.tiangolo.com |
+| 8 |``flask``| https://flask.palletsprojects.com |
+| 9 |``pydantic``| https://docs.pydantic.dev |
+| 10 |``pytest``| https://docs.pytest.org |
+| 11 |``selenium``| https://www.selenium.dev/documentation |
+| 12 |``discord.py``| https://discordpy.readthedocs.io |
+| 13 |``python-telegram-bot``| https://docs.python-telegram-bot.org |
+| 14 |``praw``| https://praw.readthedocs.io |
+| 15 |``pytorch``| https://pytorch.org/tutorials |
+##
+* [**Fundamentals**: ]()
+* [**Intermediate**:]()
+* [**Ultimate Python Course**:]()
+* [**12hrs Python Course**:]()
+* [**FreeCodeCamp Python**:]()
+* [**Machine Learning**:]()
+##
+# `` JavaScript ``
+**
 # 
 > *"It does not matter how slowly you go as long as you do not stop."
 — Confucius* 
