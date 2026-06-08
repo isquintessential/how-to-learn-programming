@@ -58,7 +58,13 @@
 ##
 
 # `` Python ``
+*Python is a powerful, beginner-friendly programming language used to build websites, automate tasks, analyze data, create artificial intelligence, and develop games. Its clean syntax, massive ecosystem, and versatility make it one of the world's most popular languages for both newcomers and professionals.*
+#### Tutorial
+# Libraries —
 
+#
+Fundamentals:
+Intermediate:
 
 # 
 > *"It does not matter how slowly you go as long as you do not stop."
